@@ -2,22 +2,6 @@
 <h4 align="center">
 They are open-source scripts for patching various apps like YouTube, YouTube Music... However, they are very difficult to use for most users. That's why I created this repository to provide an easier way.
 </h4>
-<div align="center">
-  
-[![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/View-Counter/blob/main/repos/Revanced-And-Revanced-Extended-Non-Root_609906498/svg/count.svg)](https://github.com/FiorenMas/View-Counter)
-[![Image of https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/actions](https://img.shields.io/github/actions/workflow/status/fiorenmas/Revanced-And-Revanced-Extended-Non-Root/ci.yml)](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/actions)
-[![](https://img.shields.io/badge/Telegram-2CA5E0)](https://t.me/fiorenmas)
-  
-</div>
-
----
-
-> [!NOTE]
-> ## Backup Telegram channel: 
-> ### [https://t.me/fiorenmas](https://t.me/fiorenmas)
-
-## ⚙️ How does this repository work?<img src="../main/docs/image/Readme.png" align="right" />
-Simply, all you need to do is choose the app you want to use from the options below: 'Revanced' or 'Revanced Extended'. Then, select your phone's CPU architecture. If you don't know what your phone's CPU architecture is, choose All Architectures. That's all there is to it.
 
 > [!NOTE]
 > If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG](https://github.com/ReVanced/GmsCore/releases).
@@ -28,43 +12,6 @@ Simply, all you need to do is choose the app you want to use from the options be
 > 
 > All the code is open-source, clearly, and the APK files used for patching are downloaded from a trusted site, so it is totally safe for you to use.
 ---
-<h1 align="center">
-Download
-</h1>
-
-> [!IMPORTANT] 
-> Beta versions mean using dev patches, not using beta apk files. Beta version have the same package name as Stable version, so installing them will overwrite Stable version.
->
-> License owned by creator. If you like any modded app, please support the original author.
-> 
----
-
-<details>
-  <summary><h2>Jump list apps</h2></summary>
-
-#### [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](?tab=readme-ov-file#youtube)
-
-#### [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](?tab=readme-ov-file#youtube-music)
-
-#### [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](?tab=readme-ov-file#facebook)
-
-#### [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](?tab=readme-ov-file#messenger)
-
-#### [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](?tab=readme-ov-file#twitter)
-
-#### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](?tab=readme-ov-file#instagram)
-
-#### [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](?tab=readme-ov-file#tiktok)
-
-#### [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](?tab=readme-ov-file#reddit)
-
-#### [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](?tab=readme-ov-file#duolingo)
-
-#### [Google Photos](?tab=readme-ov-file#google-photos)
-
-#### [Google News](?tab=readme-ov-file#google-news)
-
-</details>
 
 ## [MicroG ReVanced:](https://github.com/ReVanced/GmsCore)
 
@@ -74,10 +21,6 @@ Download
 
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-### [Morphe:](https://github.com/MorpheApp/morphe-patches)
-
-[Download](../../releases/download/all/youtube-morphe.apk)
-
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
 [Download](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
@@ -86,9 +29,9 @@ Download
 
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
-### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
+### [Revanced:](https://github.com/revanced/revanced-patches)
 
-[Download](../../releases/download/all/youtube-music-arm64-v8a-revanced-extended.apk)
+[Download](../../releases/download/all/youtube-music-arm64-v8a-revanced.apk)
 
 ---
 
@@ -102,15 +45,7 @@ Download
 
 ---
 
-### [Twitter:](https://play.google.com/store/apps/details?id=com.twitter.android)
 
-### [Piko:](https://github.com/crimera/piko)
-
-👉 [Offical author download link](https://github.com/crimera/twitter-apk/releases)
-
-[Download](../../releases/download/all/twitter-arm64-v8a-stable-piko.apk)
-
----
 
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
@@ -162,14 +97,6 @@ Web version:
 
 ---
 
-### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
-
-### [Revanced Extended:](https://github.com/inotia00/revanced-patches/)
-
-[Download](../../releases/download/all/reddit-arm64-v8a-revanced-extended.apk)
-
----
-
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
@@ -200,101 +127,15 @@ Web version:
 </details>
 
 <details>
-  <summary>inotia00</summary>
-
-[Patches](https://github.com/inotia00/revanced-patches) - [GPL-3.0](https://github.com/inotia00/revanced-patches/blob/revanced-extended/LICENSE)
-
-[Patches arsclib](https://github.com/inotia00/revanced-patches-arsclib) - [GPL-3.0](https://github.com/inotia00/revanced-patches-arsclib/blob/arsclib-old/LICENSE)
-
-[Integrations](https://github.com/inotia00/revanced-integrations) - [GPL-3.0](https://github.com/inotia00/revanced-integrations/blob/main/LICENSE)
-
-[CLI](https://github.com/inotia00/revanced-cli) - [GPL-3.0](https://github.com/inotia00/revanced-cli/blob/main/LICENSE)
-
-[CLI arsclib](https://github.com/inotia00/revanced-cli-arsclib) - [GPL-3.0](https://github.com/inotia00/revanced-cli-arsclib/blob/arsclib-old/LICENSE)
-
-</details>
-
-<details>
-  <summary>anddea</summary>
-
-[Patches](https://github.com/anddea/revanced-patches) - [GPL-3.0](https://github.com/anddea/revanced-patches/blob/main/LICENSE)
-
-[Integrations](https://github.com/anddea/revanced-integrations) - [GPL-3.0](https://github.com/anddea/revanced-integrations/blob/main/LICENSE)
-
-</details>
-
-</details>
-
-<details>
-  <summary>Morphe</summary>
-
-[Patches](https://github.com/MorpheApp/morphe-patches) - [GPL-3.0](https://github.com/MorpheApp/morphe-patches/blob/main/LICENSE)
-
-[CLI](https://github.com/MorpheApp/morphe-cli) - [GPL-3.0](https://github.com/MorpheApp/morphe-cli/blob/main/LICENSE)
-
-</details>
-
-<details>
-  <summary>crimera</summary>
-
-[Patches](https://github.com/crimera/piko) - [GPL-3.0](https://github.com/crimera/piko/blob/main/LICENSE)
-
-[Integrations](https://github.com/crimera/revanced-integrations) - [GPL-3.0](https://github.com/crimera/revanced-integrations/blob/main/LICENSE)
-
-</details>
-
-<details>
-  <summary>kitadai31</summary>
-
-[Patches](https://github.com/kitadai31/revanced-patches-android6-7) - [GPL-3.0](https://github.com/kitadai31/revanced-patches-android6-7/blob/revanced-extended/LICENSE)
-
-[Integrations](https://github.com/kitadai31/revanced-integrations) - [GPL-3.0](https://github.com/kitadai31/revanced-integrations/blob/revanced-extended/LICENSE)
-
-</details>
-
-<details>
-  <summary>d4n3436</summary>
-
-[Patches](https://github.com/d4n3436/revanced-patches-android5) - [GPL-3.0](https://github.com/d4n3436/revanced-patches-android5/blob/revanced-extended/LICENSE)
-
-[Integrations](https://github.com/d4n3436/revanced-integrations) - [GPL-3.0](https://github.com/d4n3436/revanced-integrations/blob/revanced-extended/LICENSE)
-
-</details>
-
-<details>
-  <summary>BiliRoamingM</summary>
-
-[Patches & Integrations](https://github.com/sakarie9/BiliRoamingM) - [GPL-3.0](https://github.com/sakarie9/BiliRoamingM/blob/main/LICENSE)
-
-</details>
-
-<details>
-  <summary>indrastorms</summary>
-
-[Patches](https://github.com/indrastorms/Dropped-Patches) - [GPL-3.0](https://github.com/indrastorms/Dropped-Patches/blob/main/LICENSE)
-
-</details>
-
-<details>
   <summary>Aunali321</summary>
 
 [Patches](https://github.com/Aunali321/ReVancedExperiments) - [GPL-3.0](https://github.com/Aunali321/ReVancedExperiments/blob/main/LICENSE)
 
 </details>
 
-<details>
-  <summary>scrazzz</summary>
 
-[Patches](https://github.com/scrazzz/my-revanced-patches) - [GPL-3.0](https://github.com/scrazzz/my-revanced-patches/blob/main/LICENSE)
 
-</details>
 
-<details>
-  <summary>mamiiblt</summary>
-
-[Patches](https://github.com/mamiiblt/instafel) - [MIT](https://github.com/mamiiblt/instafel/blob/main/LICENSE)
-
-</details>
 
 [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - [MIT](https://github.com/Ileriayo/markdown-badges/blob/master/LICENSE)
 
