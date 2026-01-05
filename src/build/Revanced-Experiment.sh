@@ -20,8 +20,8 @@ get_patches_key "telegram-revanced-experiments"
 get_apk "org.telegram.messenger" "telegram-web-version" "telegram-web-version" "telegram-fz-llc/telegram-web-version/telegram-web-version"
 patch "telegram-web-version" "revanced-experiments"
 
-# Patch Instagram:
-get_patches_key "instagram-revanced-experiments"
-version="362.0.0.33.241"
-get_apkpure "com.instagram.android" "instagram-arm64-v8a" "instagram-android/com.instagram.android"
-patch "instagram-arm64-v8a" "revanced-experiments"
+# # Patch Instagram:
+# get_patches_key "instagram-revanced-experiments"
+# version="362.0.0.33.241"
+# get_apkpure "com.instagram.android" "instagram-arm64-v8a" "instagram-android/com.instagram.android"
+# patch "instagram-arm64-v8a" "revanced-experiments"

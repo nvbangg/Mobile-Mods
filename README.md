@@ -79,12 +79,6 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 [![Duolingo](https://img.shields.io/badge/Download_Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/all/duolingo-revanced.apk)
 
----
-
-### [Google News:](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
-
-[![Google News](https://img.shields.io/badge/Download_Google_News-01875F?style=for-the-badge&logo=google-news&logoColor=white)](../../releases/download/all/googlenews-arm64-v8a-revanced.apk)
-
 --- 
 
 ### ⚠️ Library, resources using in this repository:
