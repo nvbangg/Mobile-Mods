@@ -34,15 +34,12 @@ revanced_dl(){
 	# Patch Messenger:
 	# Arm64-v8a
 	get_patches_key "messenger"
-	url="https://facebook-messenger.en.uptodown.com/android/download"
-	url="https://dw.uptodown.com/dwn/$(req "$url" - | $pup -p --charset utf-8 'button#detail-download-button attr{data-url}')"
-	req "$url" "messenger-arm64-v8a.apk"
+	get_apkpure "com.facebook.orca" "messenger-arm64-v8a" "facebook-messenger/com.facebook.orca"
 	patch "messenger-arm64-v8a" "revanced"
 	# Patch Facebook:
 	# Arm64-v8a
 	get_patches_key "facebook"
-	url="https://d.apkpure.com/b/APK/com.facebook.katana?versionCode=457020009"
-	req "$url" "facebook-arm64-v8a.apk"
+	get_apkpure "com.facebook.katana" "facebook-arm64-v8a" "facebook/com.facebook.katana"
 	patch "facebook-arm64-v8a" "revanced"
 }
 3() {
@@ -72,6 +69,10 @@ revanced_dl(){
 	revanced_dl
 	# Patch Tiktok:
 	get_patches_key "tiktok"
+	# Extract version from Uptodown page
+	version=$(req "https://tiktok.en.uptodown.com/android" - | sed -n 's/.*class="version">\([^<]*\)<.*/\1/p')
+	export version
+	
 	url="https://tiktok.en.uptodown.com/android/download/1026195874-x" #Use uptodown because apkmirror ban tiktok in US lead github action can't download apk file
 	url="https://dw.uptodown.com/dwn/$(req "$url" - | $pup -p --charset utf-8 'button#detail-download-button attr{data-url}')"
 	req "$url" "tiktok.apk"

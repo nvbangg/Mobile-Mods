@@ -46,6 +46,15 @@ jobs:
         id: release-rv
         if: steps.check-gh-rv.outputs.internet_error == '0'
         uses: ./.github/actions/release
+      - name: Upload README for consolidation
+        if: steps.check-gh-rv.outputs.internet_error == '0'
+        uses: actions/upload-artifact@v4
+        with:
+          name: readme-${{ matrix.run }}
+          path: |
+            README.md
+            updated_apps.txt
+          retention-days: 1
   patch_rv_experiments:
     name: Patch Revanced Experiments
     if: ${{ github.event.inputs.org == 'Revanced Experiments' || inputs.org == 'Revanced Experiments' }}
@@ -66,3 +75,59 @@ jobs:
         id: release-rv-experiments
         if: steps.check-gh-rv-experiments.outputs.internet_error == '0'
         uses: ./.github/actions/release
+      - name: Upload README for consolidation
+        if: steps.check-gh-rv-experiments.outputs.internet_error == '0'
+        uses: actions/upload-artifact@v4
+        with:
+          name: readme-experiments
+          path: |
+            README.md
+            updated_apps.txt
+          retention-days: 1
+  update_readme:
+    name: Update README with versions
+    needs: [patch_rv, patch_rv_experiments]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: dev
+      - name: Download all README artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: readme-*
+          path: readme-artifacts
+      - name: Merge README updates
+        run: |
+          # Start with current README from repo
+          cp README.md README.new.md
+          
+          # Extract specific version updates from artifacts and apply to new README
+          for version_file in readme-artifacts/*/updated_apps.txt; do
+            if [ -f "$version_file" ]; then
+              echo "Processing updates from $version_file"
+              while read badge_info; do
+                # badge_info is like "Download_YouTube-V20.14.43"
+                # Extract the key part (Download_YouTube)
+                badge_key=$(echo "$badge_info" | sed 's/-V.*//')
+                echo "  Applying update: $badge_info"
+                # Replace in README using basic sed (safe because pattern is exact)
+                sed -i "s|${badge_key}-V[0-9.]*|${badge_info}|g" README.new.md
+              done < "$version_file"
+            fi
+          done
+          
+          mv README.new.md README.md
+      - name: Commit and push README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit"
+          else
+            git commit -m "Update app versions in README"
+            git push origin dev
+          fi

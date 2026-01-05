@@ -372,6 +372,7 @@ patch() {
 			unset CI GITHUB_ACTION GITHUB_ACTIONS GITHUB_ACTOR GITHUB_ENV GITHUB_EVENT_NAME GITHUB_EVENT_PATH GITHUB_HEAD_REF GITHUB_JOB GITHUB_REF GITHUB_REPOSITORY GITHUB_RUN_ID GITHUB_RUN_NUMBER GITHUB_SHA GITHUB_WORKFLOW GITHUB_WORKSPACE RUN_ID RUN_NUMBER
 		fi
 		eval java -jar *cli*.jar $p$b $m$opt --out=./release/$1-$2.apk$excludePatches$includePatches$ks $pu$force $a./download/$1.apk
+		update_readme "$1" "$version"
   		unset version
 		unset lock_version
 		unset excludePatches
@@ -380,6 +381,31 @@ patch() {
 		red_log "[-] Not found $1.apk"
 		exit 1
 	fi
+}
+
+# Update version badge in README.md
+update_readme() {
+	local apk_name="$1" ver="$2"
+	[ -z "$ver" ] && return
+	# Convert hyphens back to dots for badge display
+	ver=$(echo "$ver" | sed 's/-/./g')
+	# Map apk names to badge keywords
+	case "$apk_name" in
+		youtube-arm64-v8a) key="Download_YouTube" ;;
+		youtube-music-arm64-v8a) key="Download_YouTube_Music" ;;
+		facebook-arm64-v8a) key="Download_Facebook" ;;
+		messenger-arm64-v8a) key="Download_Messenger" ;;
+		instagram-arm64-v8a) key="Download_Instagram" ;;
+		gg-photos-arm64-v8a) key="Download_Google_Photos" ;;
+		telegram) key="Donwload_Telegram_CH_play" ;;
+		telegram-web-version) key="Donwload_Telegram_Web" ;;
+		tiktok) key="Download_TikTok" ;;
+	esac
+	
+	sed -i "s|${key}-V[0-9.]*|${key}-V${ver}|" README.md
+	echo "${key}-V${ver}" >> updated_apps.txt
+	
+	green_log "[+] Updated README version for $apk_name: V$ver"
 }
 
 #################################################
