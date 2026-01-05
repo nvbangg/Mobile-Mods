@@ -15,23 +15,19 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ## [MicroG ReVanced:](https://github.com/ReVanced/GmsCore)
 
-[![Release](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=All-arch&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases) 
+[![MicroG](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=Download_MicroG&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases) 
 
 ---
 
-### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
+[![YouTube](https://img.shields.io/badge/Download_YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
 
 ---
 
-### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/youtube-music-arm64-v8a-revanced.apk)
+[![YouTube Music](https://img.shields.io/badge/Download_YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/all/youtube-music-arm64-v8a-revanced.apk)
 
 ---
 
@@ -39,77 +35,57 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 **You have to remove the Messenger app before you install the Facebook ReVanced**
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/facebook-arm64-v8a-revanced.apk)
-
----
-
-
-
-### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
-
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/instagram-arm64-v8a-revanced.apk)
-
-### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
-
-[Download](../../releases/download/all/instagram-arm64-v8a-revanced-experiments.apk)
-
----
-
-### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
-
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
+[![Facebook](https://img.shields.io/badge/Download_Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](../../releases/download/all/facebook-arm64-v8a-revanced.apk)
 
 ---
 
 ### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/messenger-arm64-v8a-revanced.apk)
+[![Messenger](https://img.shields.io/badge/Download_Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](../../releases/download/all/messenger-arm64-v8a-revanced.apk)
 
 ---
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
-### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
+[![Instagram](https://img.shields.io/badge/Download_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/all/instagram-arm64-v8a-revanced.apk)
 
-CH play version:
+---
 
-[Download](../../releases/download/all/telegram-revanced-experiments.apk)
+### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
-Web version:
+[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-FBBC04?style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
 
-[Download](../../releases/download/all/telegram-web-version-revanced-experiments.apk) 
+---
+
+### Telegram:
+
+- [CH play version:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+
+[![Telegram](https://img.shields.io/badge/Donwload_Telegram_CH_play-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-revanced-experiments.apk)
+
+- [Web version:](https://telegram.org/android)
+
+[![Telegram](https://img.shields.io/badge/Donwload_Telegram_Web-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-web-version-revanced-experiments.apk)
 
 ---
 
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/tiktok-revanced.apk)
+[![TikTok](https://img.shields.io/badge/Download_TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/all/tiktok-revanced.apk)
 
 ---
 
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-[Download](../../releases/download/all/duolingo-revanced.apk)
+[![Duolingo](https://img.shields.io/badge/Download_Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/all/duolingo-revanced.apk)
 
 ---
 
-### [Google News:](play.google.com/store/apps/details?id=com.google.android.apps.magazines)
+### [Google News:](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
+[![Google News](https://img.shields.io/badge/Download_Google_News-01875F?style=for-the-badge&logo=google-news&logoColor=white)](../../releases/download/all/googlenews-arm64-v8a-revanced.apk)
 
-[Download](../../releases/download/all/googlenews-arm64-v8a-revanced.apk)
+--- 
 
 ### ⚠️ Library, resources using in this repository:
 
