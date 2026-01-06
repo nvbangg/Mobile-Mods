@@ -127,5 +127,8 @@ jobs:
             echo "No README changes to commit"
           else
             git commit -m "Update app versions in README"
-            git push
+            # Retry logic for concurrent updates
+            for i in {1..5}; do
+              git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) && git push && break || sleep 2
+            done
           fi
