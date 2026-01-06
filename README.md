@@ -21,7 +21,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-[![YouTube](https://img.shields.io/badge/Download_YouTube-V0.0.0-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
+[![YouTube](https://img.shields.io/badge/Download_YouTube-V20.14.43-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
 
 ---
 
@@ -47,13 +47,13 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
-[![Instagram](https://img.shields.io/badge/Download_Instagram-V0.0.0-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/all/instagram-arm64-v8a-revanced.apk)
+[![Instagram](https://img.shields.io/badge/Download_Instagram-V401.0.0.48.79-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/all/instagram-arm64-v8a-revanced.apk)
 
 ---
 
 ### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
-[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V0.0.0-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
+[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V7.56.0.842383089-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
 
 ---
 
@@ -71,7 +71,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
-[![TikTok](https://img.shields.io/badge/Download_TikTok-V0.0.0-gray?labelColor=000000&style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/all/tiktok-revanced.apk)
+[![TikTok](https://img.shields.io/badge/Download_TikTok-V43.2.1-gray?labelColor=000000&style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/all/tiktok-revanced.apk)
 
 ---
 
