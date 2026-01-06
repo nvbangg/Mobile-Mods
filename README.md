@@ -81,6 +81,10 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 --- 
 
+[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg/Mobile-Mods?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/Mobile-Mods) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=Mobile-Mods&countColor=blue&style=flat&labelStyle=none)
+
+---
+
 ### ⚠️ Library, resources using in this repository:
 
 <details>
