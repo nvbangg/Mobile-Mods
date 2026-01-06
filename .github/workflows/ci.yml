@@ -35,7 +35,7 @@ jobs:
         with:
           script: |
             const maxRetries = ${{ env.max_retries }};
-            let retryCount = ${{ env.retry_count }};
+            let retryCount = parseInt('${{ env.retry_count }}') || 1;
             if (retryCount < maxRetries) {
               retryCount += 1;
               await github.rest.actions.createWorkflowDispatch({
@@ -50,7 +50,7 @@ jobs:
             }
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          retry_count: ${{ github.event.inputs.retry_count }}
+          retry_count: ${{ github.event.inputs.retry_count || 1 }}
           max_retries: 3
     outputs:
       check_rv: ${{ steps.check-rv.outputs.new_patch }}
