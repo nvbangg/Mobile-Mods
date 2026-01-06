@@ -1,6 +1,7 @@
 #!/bin/bash
 
 mkdir ./release ./download
+rm -f updated_apps.txt  # Reset version tracking file
 
 #Setup pup for download apk files
 wget -q -O ./pup.zip https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
