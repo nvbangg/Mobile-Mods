@@ -21,13 +21,13 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-[![YouTube](https://img.shields.io/badge/Download_YouTube-V20.14.43-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
+[![YouTube](https://img.shields.io/badge/Download_YouTube-V0.0.0-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
 
 ---
 
 ### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
-[![YouTube Music](https://img.shields.io/badge/Download_YouTube_Music-V8.10.52-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/all/youtube-music-arm64-v8a-revanced.apk)
+[![YouTube Music](https://img.shields.io/badge/Download_YouTube_Music-V0.0.0-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/all/youtube-music-arm64-v8a-revanced.apk)
 
 ---
 
@@ -35,25 +35,25 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 **You have to remove the Messenger app before you install the Facebook ReVanced**
 
-[![Facebook](https://img.shields.io/badge/Download_Facebook-V490.0.0.63.82-gray?labelColor=1877F2&style=for-the-badge&logo=Facebook&logoColor=white)](../../releases/download/all/facebook-arm64-v8a-revanced.apk)
+[![Facebook](https://img.shields.io/badge/Download_Facebook-V0.0.0-gray?labelColor=1877F2&style=for-the-badge&logo=Facebook&logoColor=white)](../../releases/download/all/facebook-arm64-v8a-revanced.apk)
 
 ---
 
 ### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
-[![Messenger](https://img.shields.io/badge/Download_Messenger-V533.0.0.47.109-gray?labelColor=00B2FF&style=for-the-badge&logo=messenger&logoColor=white)](../../releases/download/all/messenger-arm64-v8a-revanced.apk)
+[![Messenger](https://img.shields.io/badge/Download_Messenger-V0.0.0-gray?labelColor=00B2FF&style=for-the-badge&logo=messenger&logoColor=white)](../../releases/download/all/messenger-arm64-v8a-revanced.apk)
 
 ---
 
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
-[![Instagram](https://img.shields.io/badge/Download_Instagram-V401.0.0.48.79-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/all/instagram-arm64-v8a-revanced.apk)
+[![Instagram](https://img.shields.io/badge/Download_Instagram-V0.0.0-gray?labelColor=E4405F&style=for-the-badge&logo=Instagram&logoColor=white)](../../releases/download/all/instagram-arm64-v8a-revanced.apk)
 
 ---
 
 ### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
-[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V7.57.0.843750501-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
+[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V0.0.0-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
 
 ---
 
@@ -61,23 +61,23 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 - [CH play version:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-[![Telegram](https://img.shields.io/badge/Donwload_Telegram_CH_play-V6.60.5-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-revanced-experiments.apk)
+[![Telegram](https://img.shields.io/badge/Donwload_Telegram_CH_play-V0.0.0-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-revanced-experiments.apk)
 
 - [Web version:](https://telegram.org/android)
 
-[![Telegram](https://img.shields.io/badge/Donwload_Telegram_Web-V6.60.5-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-web-version-revanced-experiments.apk)
+[![Telegram](https://img.shields.io/badge/Donwload_Telegram_Web-V0.0.0-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-web-version-revanced-experiments.apk)
 
 ---
 
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
-[![TikTok](https://img.shields.io/badge/Download_TikTok-V43.2.1-gray?labelColor=000000&style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/all/tiktok-revanced.apk)
+[![TikTok](https://img.shields.io/badge/Download_TikTok-V0.0.0-gray?labelColor=000000&style=for-the-badge&logo=TikTok&logoColor=white)](../../releases/download/all/tiktok-revanced.apk)
 
 ---
 
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
-[![Duolingo](https://img.shields.io/badge/Download_Duolingo-V6.60.5-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/all/duolingo-revanced.apk)
+[![Duolingo](https://img.shields.io/badge/Download_Duolingo-V0.0.0-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/all/duolingo-revanced.apk)
 
 --- 
 
