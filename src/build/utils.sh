@@ -400,6 +400,11 @@ update_readme() {
 		telegram) key="Donwload_Telegram_CH_play" ;;
 		telegram-web-version) key="Donwload_Telegram_Web" ;;
 		tiktok) key="Download_TikTok" ;;
+		duolingo) key="Download_Duolingo" ;;
+		*) 
+			red_log "[-] No README mapping for $apk_name"
+			return
+			;;
 	esac
 	
 	sed -i "s|${key}-V[0-9.]*|${key}-V${ver}|" README.md
