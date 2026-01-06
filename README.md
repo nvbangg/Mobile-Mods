@@ -21,7 +21,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-[![YouTube](https://img.shields.io/badge/Download_YouTube-V6.60.5-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
+[![YouTube](https://img.shields.io/badge/Download_YouTube-V20.14.43-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
 
 ---
 
@@ -53,7 +53,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
-[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V6.60.5-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
+[![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V7.57.0.843750501-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
 
 ---
 
