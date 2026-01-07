@@ -24,7 +24,7 @@ jobs:
       - name: Check new patch ReVanced
         id: check-rv
         if: steps.check-gh.outputs.internet_error == '0'
-        run: bash src/etc/ci.sh ReVanced/revanced-patches latest youtube-revanced.apk
+        run: bash src/etc/ci.sh ReVanced/revanced-patches latest youtube-arm64-v8a-revanced.apk
       - name: Check new patch Revanced Experiments
         id: check-Revanced-Experiments
         if: steps.check-gh.outputs.internet_error == '0'
