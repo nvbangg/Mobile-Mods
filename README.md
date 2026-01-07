@@ -3,6 +3,12 @@
 They are open-source scripts for patching various apps like YouTube, YouTube Music... However, they are very difficult to use for most users. That's why I created this repository to provide an easier way.
 </h4>
 
+<div align="center">
+  
+[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg/Mobile-Mods?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/Mobile-Mods) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=Mobile-Mods&countColor=blue&style=flat&labelStyle=none)
+
+</div> 
+
 > [!NOTE]
 > If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG](https://github.com/ReVanced/GmsCore/releases).
 > 
@@ -80,10 +86,6 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 [![Duolingo](https://img.shields.io/badge/Download_Duolingo-V6.60.5-gray?labelColor=4DC730&style=for-the-badge&logo=Duolingo&logoColor=white)](../../releases/download/all/duolingo-revanced.apk)
 
 --- 
-
-[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg/Mobile-Mods?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/Mobile-Mods) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=Mobile-Mods&countColor=blue&style=flat&labelStyle=none)
-
----
 
 ### ⚠️ Library, resources using in this repository:
 
