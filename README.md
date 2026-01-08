@@ -34,7 +34,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Hide ads: Adds options to remove general ads.
   - Video ads: Adds an option to remove ads in the video player.
@@ -64,7 +64,8 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+
   - Hide music video ads: Adds an option to hide ads that appear while listening to or streaming music videos, podcasts, or songs.
   - Enable exclusive audio playback: Enables the option to play audio without video.
   - Navigation bar: Adds options to hide navigation bar, labels and buttons.
@@ -88,7 +89,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Hide 'Sponsored Stories'
   - Hide story ads: Hides the ads in the Facebook app stories.
@@ -105,7 +106,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Disable typing indicator: Disables the indicator while typing a message.
   - Hide Facebook button: Hides the Facebook button in the top toolbar.
@@ -125,7 +126,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Disable Reels scrolling: Disables the endless scrolling behavior in Instagram Reels, preventing swiping to the next Reel. Note: On a clean install, the 'Tip' animation may appear but will stop on its own after a few seconds.
   - Hide ads
@@ -145,7 +146,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Spoof features: Spoofs the device to enable Google Pixel exclusive features, including unlimited storage.
   - GmsCore support: Allows the app to work without root by using a different package name when patched using a GmsCore instead of Google Play Services.
@@ -189,7 +190,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Disable login requirement
   - Downloads: Removes download restrictions and changes the default path to download to.
@@ -213,7 +214,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 <details>
   <summary>Patch details</summary>
 
-[![Revanced-patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=Revanced-patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
+[![ReVanced-Patches](https://img.shields.io/github/v/release/ReVanced/revanced-patches?label=ReVanced-Patches&style=for-the-badge)](https://github.com/ReVanced/revanced-patches/releases) 
 
   - Disable ads
   - Skip energy recharge ads: Skips watching ads to recharge energy.
@@ -243,9 +244,6 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 [Patches](https://github.com/Aunali321/ReVancedExperiments) - [GPL-3.0](https://github.com/Aunali321/ReVancedExperiments/blob/main/LICENSE)
 
 </details>
-
-
-
 
 [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - [MIT](https://github.com/Ileriayo/markdown-badges/blob/master/LICENSE)
 
