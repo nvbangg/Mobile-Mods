@@ -159,11 +159,11 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 - [CH play version:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-[![Telegram](https://img.shields.io/badge/Donwload_Telegram_CH_play-V12.3.0-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-revanced-experiments.apk)
+[![Telegram](https://img.shields.io/badge/Donwload_Telegram_CH_play-V12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-revanced-experiments.apk)
 
 - [Web version:](https://telegram.org/android) This version has fewer restrictions
 
-[![Telegram](https://img.shields.io/badge/Donwload_Telegram_Web-V12.3.0-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-web-version-revanced-experiments.apk)
+[![Telegram](https://img.shields.io/badge/Donwload_Telegram_Web-V12.3.1-gray?labelColor=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](../../releases/download/all/telegram-web-version-revanced-experiments.apk)
 
 <details>
   <summary>Patch details</summary>
