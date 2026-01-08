@@ -27,6 +27,8 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
+- **You need to download and install [MicroG](https://github.com/ReVanced/GmsCore/releases)**
+
 [![YouTube](https://img.shields.io/badge/Download_YouTube-V20.14.43-gray?labelColor=FF0000&style=for-the-badge&logo=YouTube&logoColor=white)](../../releases/download/all/youtube-arm64-v8a-revanced.apk)
 
 <details>
@@ -54,6 +56,8 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 ---
 
 ### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+
+- **You need to download and install [MicroG](https://github.com/ReVanced/GmsCore/releases)**
 
 [![YouTube Music](https://img.shields.io/badge/Download_YouTube_Music-V8.10.52-gray?labelColor=FF0000&style=for-the-badge&logo=youtube-music&logoColor=white)](../../releases/download/all/youtube-music-arm64-v8a-revanced.apk)
 
@@ -133,6 +137,8 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 ---
 
 ### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+
+- **You need to download and install [MicroG](https://github.com/ReVanced/GmsCore/releases)**
 
 [![Google Photos](https://img.shields.io/badge/Download_Google_Photos-V7.56.0.842383089-gray?labelColor=FBBC04&style=for-the-badge&logo=google-photos&logoColor=white)](../../releases/download/all/gg-photos-arm64-v8a-revanced.apk)
 
